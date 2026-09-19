@@ -10,7 +10,7 @@ A Maven/JUnit 5 project implementing a test suite for the StayPriceCalculator cl
 -JDK 26
 
 -Maven:
-    Not required as a separate install if you're using IntelliJ IDEA, which bundles its own Maven distribution. 
+    Not required as a separate install if you're using IntelliJ IDEA, which bundles its own Maven distribution
 ## Installation
 
 Clone the repository:
