@@ -1,5 +1,5 @@
 
-# CSCI Software Testing Lab Three - Arkansas State Park Reservation Engine
+# CSCI 6397 Software Testing Lab Three - Arkansas State Park Reservation Engine
 
 A Maven/JUnit 5 project implementing a test suite for the StayPriceCalculator class and its caculateStayPrice method, a pricing function for the Arkansas State Park reservation system. Test design uses three techniques: Equivalence Partitioning, Boundary Value Analysis, and Decision Tables. Test design is documented in the '...Test Case Development...' document in the root of the repository.
 ## Authors
